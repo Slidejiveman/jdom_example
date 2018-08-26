@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<company>
+    <staff>
+        <firstname>Ryder</firstname>
+        <lastname>Walton</lastname>
+        <nickname>Scrungo Beepis</nickname>
+        <salary>80000</salary>
+    </staff>
+    <staff>
+        <firstname>Lindsay</firstname>
+        <lastname>Walton</lastname>
+        <nickname>Linzel</nickname>
+        <salary>80000</salary>
+    </staff>
+</company>
